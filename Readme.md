@@ -5,10 +5,10 @@
   <a href="https://your-slack-link-here">
     <img src="https://img.shields.io/badge/slack-join%20chat-blueviolet?logo=slack" alt="Slack" />
   </a>
-  <br/>
   <a>
     <img src="https://img.shields.io/github/issues-raw/Native-Spirit-Technologies/tutorials?label=Issues" alt="Issues" />
   </a>
+  <br/>
 
 Welcome to the Plutus tutorials repository! Launch your journey with Plutus by signing up for a plutus! If you've already created an account and have cloned this repository, check out your chosen template in the table of contents.
 
