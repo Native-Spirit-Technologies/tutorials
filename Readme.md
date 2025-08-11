@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/slack-join%20chat-blueviolet?logo=slack" alt="Slack" />
   </a>
   <a href="https://your-slack-link-here">
-    <img src="https://img.shields.io/badge/slack-join%20chat-blueviolet?logo=slack" alt="Slack" />
+    <img src="https://img.shields.io/github/issues-closed-raw/Native-Spirit-Technologies/tutorials?label=Closed+Issues" alt="Closed Issues" />
   </a>
     <a href="https://your-slack-link-here">
     <img src="https://img.shields.io/badge/slack-join%20chat-blueviolet?logo=slack" alt="Slack" />
