@@ -1,5 +1,3 @@
-# tutorials
-
 <p align="center">
   <a href="https://astronomer.io">
     <h3 align="center">Plutus Tutorials</h3>
