@@ -2,6 +2,9 @@
   <a href="https://astronomer.io">
     <h3 align="center">Plutus Tutorials</h3>
   </a>
+</p>
+
+<p align="center">
   <a href="https://your-slack-link-here">
     <img src="https://img.shields.io/badge/slack-join%20chat-blueviolet?logo=slack" alt="Slack" />
   </a>
