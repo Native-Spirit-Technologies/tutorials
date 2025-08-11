@@ -17,6 +17,9 @@
   <a>
     <img src="https://img.shields.io/github/issues-pr-raw/Native-Spirit-Technologies/tutorials?label=Open+PRs" alt="Open PRs" />
   </a>
+  <a>
+    <img src="https://img.shields.io/github/issues-pr-closed-raw/Native-Spirit-Technologies/tutorials?label=Closed+PRs" alt="Closed PRs"
+  </a>
 </p>
 
 Welcome to the Plutus tutorials repository! Launch your journey with Plutus by signing up for a plutus! If you've already created an account and have cloned this repository, check out your chosen template in the table of contents.
